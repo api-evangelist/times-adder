@@ -1,4 +1,16 @@
 aid: times-adder
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/times-adder.png
 name: Times Adder
 description: "With this API you can add each of the times introduced in the array sended"
 url: https://github.com/FranP-code/API-Times-Adder
