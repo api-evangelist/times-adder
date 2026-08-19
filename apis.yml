@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/times-adde
 name: Times Adder
 description: "With this API you can add each of the times introduced in the array sended"
 url: https://github.com/FranP-code/API-Times-Adder
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
