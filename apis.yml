@@ -39,7 +39,8 @@ apis:
   - name: Times Adder
     description: "With this API you can add each of the times introduced in the array sended"
     humanURL: https://github.com/FranP-code/API-Times-Adder
-    tags:
+    tags: []
+    tags_raw:
       - Science And Math
     properties:
       - type: Documentation
